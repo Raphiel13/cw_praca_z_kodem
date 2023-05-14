@@ -1,4 +1,8 @@
 from flask import Flask
+
+"""
+docstring workaround
+"""
 app = Flask(__name__)
 
 
