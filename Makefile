@@ -1,2 +1,3 @@
-pip install –r requirements.txt
-flask run
+eun_app:
+	pip install –r requirements.txt
+	flask run
